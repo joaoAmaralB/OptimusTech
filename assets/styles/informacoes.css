@@ -1,0 +1,59 @@
+.informacoes {
+    margin-top: 9em;
+}
+
+.informacoes__grupo {
+    text-align: center;
+}
+
+.sobre-nos {
+    color: var(--vinho);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 2em;
+}
+
+.informacoes__titulo {
+    color: var(--preto);
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+.informacoes__texto {
+    color: var(--cinza-claro);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    width: 60%;
+    margin: 2em auto;
+}
+
+.informacoes__lista {
+    display: flex;
+    justify-content: space-between;
+    margin: 8em 6em 0 6em;
+}
+
+.informacoes__lista-item {
+    max-width: 20%;
+}
+
+.item-numero {
+    color: var(--vinho);
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.item-titulo {
+    color: var(--preto);
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.item-texto {
+    color: var(--cinza-claro);
+    font-weight: 400;
+}

@@ -1,0 +1,35 @@
+.desenvolvimento-lista-item, .design-lista-item {
+    border: 1px solid var(--borda-vagas);
+    border-radius: 16px;
+    width: 60%;
+    margin: 1em auto;
+    padding: 24px 24px 28px;
+    gap: 24px;
+    align-items: center;
+}
+
+.vagas__titulo {
+    color: var(--preto);
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    width: 64%;
+    margin: 3em auto 1em auto;
+}
+
+.item__titulo {
+    color: var(--preto);
+    font-size: 18px;
+    line-height: 28px;
+    width: 100%;
+}
+
+.item__descricao {
+    display: flex;
+    color: var(--cinza-claro);
+    margin-top: 2em;
+}
+
+.item__horario {
+    margin-right: 1em;
+}

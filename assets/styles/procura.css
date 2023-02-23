@@ -1,0 +1,35 @@
+.procura {
+    margin-top: 10em;
+    text-align: center;
+}
+
+.vagas-abertas {
+    background: var(--vagas-abertas-fundo);
+    border-radius: 16px;
+    color: var(--vinho);
+    font-size: 14px;
+    line-height: 20px;
+    display: inline;
+    padding: .5em;
+    font-weight: 700;
+}
+
+.procura__titulo {
+    color: var(--preto);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    margin: .6em 0;
+}
+
+.procura__texto {
+    color: var(--cinza-claro);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 3em;
+}
+
+.procura__imagem {
+    width: 82%;
+}

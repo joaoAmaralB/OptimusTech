@@ -1,0 +1,28 @@
+@import url("./header.css");
+@import url("./informacoes.css");
+@import url("./procura.css");
+@import url("./vagas.css");
+@import url("./colaboradores.css");
+@import url("./footer.css");
+
+:root {
+    --fonte-principal: "Inter";
+    --branco: #FFFFFF;
+    --cinza-claro: #667085;
+    --cinza-escuro: #3A404E;
+    --vinho: #8E2424;
+    --preto: #101828;
+    --vagas-abertas-fundo: rgba(142, 36, 36, 0.05);
+    --borda-vagas: #EAECF0;
+    --footer-background: #F9FAFB;
+    --copyright: #98A2B3;
+    --footer-input: #D0D5DD;
+}
+
+body {
+    font-family: var(--fonte-principal), sans-serif;
+    background-color: var(--branco);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
