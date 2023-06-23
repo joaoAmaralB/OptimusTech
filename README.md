@@ -1,7 +1,7 @@
 # OptimusTech
 Página realizada no 7DaysOfCode para uma empresa
 
-## Linguagens e Bibliotecas utilizadas
+## Linguagens utilizadas
 
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
